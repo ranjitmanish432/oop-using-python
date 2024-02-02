@@ -346,8 +346,8 @@ class student:#Outer class
             print(self.brand, self.cpu,self.ram) 
             
             
-s1 = student('Apple',5)
-s2 = student('Cat',7)
+s1 = student('Manish',5)
+s2 = student('Apple',7)
 
 s1.show()
 
